@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
-public class EmployeedMap {
+public class EmployeeMap {
     public static void main(String[] args) throws IOException {
         HashMap<Integer,String> map = new LinkedHashMap<>();
         map.put(1, "Olga");
